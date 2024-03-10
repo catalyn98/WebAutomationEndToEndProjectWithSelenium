@@ -21,6 +21,5 @@ Test Automation Framework for UI with Selenium uses a number of open source proj
 $ git clone https://github.com/catalyn98/WebAutomationEndToEndProjectWithSelenium.git
 ```
 * JDK 17 or higher;
-* Maven 3.8.3 or higher;
-* Allure 2.13 or higher;
+* JUnit 4.13.2 or higher;
 * Chrome driver on your machine needs to be the same version as it is in the framework.
